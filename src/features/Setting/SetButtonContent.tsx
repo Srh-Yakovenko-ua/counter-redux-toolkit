@@ -1,5 +1,5 @@
 import React from 'react'
-import { UniversalButton } from '../../common/UniversalButton'
+import { UniversalButton } from '../../common/UniversalButton/UniversalButton'
 import { SetButton } from './SettingContent.styled'
 
 interface SetContentProps {

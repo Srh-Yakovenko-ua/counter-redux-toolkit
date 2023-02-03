@@ -1,5 +1,5 @@
 import React from 'react'
-import { UniversalButton } from '../../common/UniversalButton'
+import { UniversalButton } from '../../common/UniversalButton/UniversalButton'
 import {
   ButtonContent,
   Display,
