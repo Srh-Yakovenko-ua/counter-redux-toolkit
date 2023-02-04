@@ -12,7 +12,7 @@ export const SettingsWrapper = styled.div`
   justify-content: center;
   align-items: center;
   margin: 10px;
-  padding: 20px 0;
+  padding: 12px 0;
   gap: 25px;
   border: 1px solid #5490cb;
   border-radius: 5px;
